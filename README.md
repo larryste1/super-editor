@@ -1,6 +1,10 @@
 # Super Editor
 
-Atomic file editor for AI agents with safe writes, backups, and refactoring.
+[![PyPI](https://img.shields.io/pypi/v/super-editor.svg)](https://pypi.org/project/super-editor/)
+[![Downloads](https://static.pepy.tech/badge/super-editor)](https://pepy.tech/project/super-editor)
+[![GitHub](https://img.shields.io/github/stars/larryste1/super-editor.svg)](https://github.com/larryste1/super-editor)
+
+Atomic file editor with safe writes, automatic backups, and refactoring.
 
 ## Install
 
@@ -34,3 +38,12 @@ super-editor line file.txt --line-number 5 --operation insert --content "New lin
 ## License
 
 MIT
+
+## Links
+
+- **PyPI:** https://pypi.org/project/super-editor/
+- **GitHub:** https://github.com/larryste1/super-editor
+
+## Keywords
+
+file editor, atomic writes, backup, automation, CLI tool, Python, Go, refactoring, safe-edit
